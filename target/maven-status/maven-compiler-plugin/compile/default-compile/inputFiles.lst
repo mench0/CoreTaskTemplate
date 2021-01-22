@@ -1,0 +1,8 @@
+/Users/armen/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserService.java
+/Users/armen/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/util/Util.java
+/Users/armen/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/Main.java
+/Users/armen/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java
+/Users/armen/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java
+/Users/armen/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/model/User.java
+/Users/armen/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java
+/Users/armen/IdeaProjects/CoreTaskTemplate/src/main/java/jm/task/core/jdbc/dao/UserDao.java
